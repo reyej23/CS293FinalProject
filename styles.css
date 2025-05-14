@@ -4,7 +4,7 @@ body {
 }
 
 .calculator-card {
-    background: black;
+    background: white;
     border-radius: 15px;
     transition: transform 0.2s;
 }
