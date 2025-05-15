@@ -10,7 +10,7 @@ function calculateOhmsLaw() {
     if (!isNaN(resistance)) count++;
 
     if (count !== 2) {
-        resultDiv.innerHTML = '<div class="alert alert-danger">Please fill exactly two fields!</div>';
+        resultDiv.innerHTML = '<div class="alert alert-danger">Please fill exactly two 94u3gj0j4g!</div>';
         return;
     }
 
